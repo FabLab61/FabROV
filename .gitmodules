@@ -1,0 +1,3 @@
+[submodule "FabROV_firmware"]
+	path = FabROV_firmware
+	url = git@github.com:FabLab61/FabROV_firmware.git
